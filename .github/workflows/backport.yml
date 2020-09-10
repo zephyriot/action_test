@@ -11,6 +11,6 @@ jobs:
     name: Backport
     steps:
       - name: Backport
-        uses: carlescufi/backport@v2.1
+        uses: carlescufi/backport@v1.1.99
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
