@@ -14,7 +14,3 @@ Something else
 
 More stuff
 
-
-dddddd
-
-And again..
